@@ -1,4 +1,2 @@
 # hello-world
-my first project in github
-
-i'm in second step 
+my first testing in github
